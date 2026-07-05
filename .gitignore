@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+venv312/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# JetBrains IDE files
+.idea/
+
+# Environment variables
+.env
